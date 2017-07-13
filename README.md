@@ -1,6 +1,6 @@
-Linked List:
+#Linked List:
 
-Singly Linked List:
+##Singly Linked List:
 
     Introduction to Linked List
     Linked List vs Array
@@ -20,14 +20,14 @@ Singly Linked List:
     Rotate a Linked List
     Generic Linked List in C
 
-Circular Linked List:
+##Circular Linked List:
 
     Circular Linked List Introduction and Applications,
     Circular Linked List Traversal
     Split a Circular Linked List into two halves
     Sorted insert for circular linked list
 
-Doubly Linked List:
+##Doubly Linked List:
 
     Doubly Linked List Introduction and Insertion
     Delete a node in a Doubly Linked List
@@ -42,7 +42,7 @@ Coding Practice on Linked List
 
  
 
-Stack:
+##Stack:
 
     Introduction to Stack
     Infix to Postfix Conversion using Stack
